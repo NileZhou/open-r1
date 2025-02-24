@@ -1,0 +1,3 @@
+transformers==4.48.3
+flash_attn==2.7.4.post1
+torchvision==0.20.1
